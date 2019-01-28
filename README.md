@@ -14,3 +14,11 @@
 ### git commit
 ### git push
 ### git pull
+
+```Javascript
+console.log("test");
+function add(x,y){
+	return x + y;
+}
+
+```
