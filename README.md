@@ -8,12 +8,12 @@
 
 ## Commandes :
 
-### git init
-### git clone
-### git add
-### git commit
-### git push
-### git pull
+* git init
+* git clone
+* git add
+* git commit
+* git push
+* git pull
 
 ```Javascript
 console.log("test");
