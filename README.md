@@ -14,6 +14,11 @@
 * git commit
 * git push
 * git pull
+* git branch
+* git branch -v
+* git checkout
+* git remote -v
+* git remote add ...
 
 ```Javascript
 console.log("test");
